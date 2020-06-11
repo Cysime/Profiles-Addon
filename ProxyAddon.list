@@ -1,0 +1,57 @@
+# 冰布子的自定义规则
+
+# 常用网站附加
+DOMAIN-KEYWORD,hentai,{{ rule }}
+DOMAIN-KEYWORD,hacg,{{ rule }}
+DOMAIN-KEYWORD,liuli,{{ rule }}
+DOMAIN-SUFFIX,e-hentai.org,{{ rule }}
+DOMAIN-SUFFIX,exhentai.org,{{ rule }}
+DOMAIN-SUFFIX,ehgt.org,{{ rule }}
+DOMAIN-SUFFIX,hath.network,{{ rule }}
+DOMAIN-SUFFIX,share.dmhy.org,{{ rule }}
+
+# Bangumi
+DOMAIN-SUFFIX,bangumi.tv,{{ rule }}
+DOMAIN-SUFFIX,bgm.tv,{{ rule }}
+
+# 福瑞网站
+DOMAIN-SUFFIX,e621.net,{{ rule }}
+DOMAIN-SUFFIX,derpibooru.org,{{ rule }}
+DOMAIN-SUFFIX,furaffinity.net,{{ rule }}
+DOMAIN-SUFFIX,e621.net,{{ rule }}
+DOMAIN-SUFFIX,inkbunny.net,{{ rule }}
+DOMAIN-SUFFIX,ib.metapix.net,{{ rule }}
+
+# Patreon
+DOMAIN-SUFFIX,patreon.com,{{ rule }}
+DOMAIN-SUFFIX,patreonusercontent.com,{{ rule }}
+
+# > Gmail
+DOMAIN,pop.gmail.com,{{ rule }}
+DOMAIN,imap.gmail.com,{{ rule }}
+DOMAIN,smtp.gmail.com,{{ rule }}
+
+# > Cloudflare
+DOMAIN-SUFFIX,cloudflare.com,{{ rule }}
+
+# 朝日新闻
+DOMAIN-SUFFIX,asahicom.jp,{{ rule }}
+DOMAIN-SUFFIX,asahi.com,{{ rule }}
+DOMAIN-SUFFIX,st-hatena.com,{{ rule }}
+DOMAIN-SUFFIX,hatena.ne.jp,{{ rule }}
+
+# PAWOO
+DOMAIN-SUFFIX,pawoo.net,{{ rule }}
+
+# NYAA
+DOMAIN-SUFFIX,nyaa.si,{{ rule }}
+
+# AO3
+DOMAIN-SUFFIX,archiveofourown.org,{{ rule }}
+
+# 动漫狂
+DOMAIN-SUFFIX,cartoonmad.com,{{ rule }}
+DOMAIN-SUFFIX,fun8.us,{{ rule }}
+
+# Reddit Addon
+DOMAIN-SUFFIX,redd.it,{{ rule }}
