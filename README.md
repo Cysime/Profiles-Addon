@@ -1,2 +1,3 @@
-# Profiles-Addon
-适应于Surge的附加规则。建议配合神机规则使用
+# Glaceon's Addon Rules
+
+适用于 Surge 的附加规则集，推荐配合神机规则和 Surgio 使用。
