@@ -1,57 +1,66 @@
 # 冰布子的自定义规则
 
 # 常用网站附加
-DOMAIN-KEYWORD,hentai,{{ rule }}
-DOMAIN-KEYWORD,hacg,{{ rule }}
-DOMAIN-KEYWORD,liuli,{{ rule }}
-DOMAIN-SUFFIX,e-hentai.org,{{ rule }}
-DOMAIN-SUFFIX,exhentai.org,{{ rule }}
-DOMAIN-SUFFIX,ehgt.org,{{ rule }}
-DOMAIN-SUFFIX,hath.network,{{ rule }}
-DOMAIN-SUFFIX,share.dmhy.org,{{ rule }}
+DOMAIN-KEYWORD,hentai
+DOMAIN-KEYWORD,hacg
+DOMAIN-KEYWORD,liuli
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,ehgt.org
+DOMAIN-SUFFIX,hath.network
+DOMAIN-SUFFIX,share.dmhy.org
 
 # Bangumi
-DOMAIN-SUFFIX,bangumi.tv,{{ rule }}
-DOMAIN-SUFFIX,bgm.tv,{{ rule }}
+DOMAIN-SUFFIX,bangumi.tv
+DOMAIN-SUFFIX,bgm.tv
 
 # 福瑞网站
-DOMAIN-SUFFIX,e621.net,{{ rule }}
-DOMAIN-SUFFIX,derpibooru.org,{{ rule }}
-DOMAIN-SUFFIX,furaffinity.net,{{ rule }}
-DOMAIN-SUFFIX,e621.net,{{ rule }}
-DOMAIN-SUFFIX,inkbunny.net,{{ rule }}
-DOMAIN-SUFFIX,ib.metapix.net,{{ rule }}
+DOMAIN-SUFFIX,e621.net
+DOMAIN-SUFFIX,derpibooru.org
+DOMAIN-SUFFIX,furaffinity.net
+DOMAIN-SUFFIX,inkbunny.net
+DOMAIN-SUFFIX,ib.metapix.net
 
 # Patreon
-DOMAIN-SUFFIX,patreon.com,{{ rule }}
-DOMAIN-SUFFIX,patreonusercontent.com,{{ rule }}
+DOMAIN-SUFFIX,patreon.com
+DOMAIN-SUFFIX,patreonusercontent.com
 
 # > Gmail
-DOMAIN,pop.gmail.com,{{ rule }}
-DOMAIN,imap.gmail.com,{{ rule }}
-DOMAIN,smtp.gmail.com,{{ rule }}
+DOMAIN,pop.gmail.com
+DOMAIN,imap.gmail.com
+DOMAIN,smtp.gmail.com
 
 # > Cloudflare
-DOMAIN-SUFFIX,cloudflare.com,{{ rule }}
+DOMAIN-SUFFIX,cloudflare.com
 
 # 朝日新闻
-DOMAIN-SUFFIX,asahicom.jp,{{ rule }}
-DOMAIN-SUFFIX,asahi.com,{{ rule }}
-DOMAIN-SUFFIX,st-hatena.com,{{ rule }}
-DOMAIN-SUFFIX,hatena.ne.jp,{{ rule }}
+DOMAIN-SUFFIX,asahicom.jp
+DOMAIN-SUFFIX,asahi.com
+DOMAIN-SUFFIX,st-hatena.com
+DOMAIN-SUFFIX,hatena.ne.jp
 
 # PAWOO
-DOMAIN-SUFFIX,pawoo.net,{{ rule }}
+DOMAIN-SUFFIX,pawoo.net
 
 # NYAA
-DOMAIN-SUFFIX,nyaa.si,{{ rule }}
+DOMAIN-SUFFIX,nyaa.si
 
 # AO3
-DOMAIN-SUFFIX,archiveofourown.org,{{ rule }}
+DOMAIN-SUFFIX,archiveofourown.org
 
 # 动漫狂
-DOMAIN-SUFFIX,cartoonmad.com,{{ rule }}
-DOMAIN-SUFFIX,fun8.us,{{ rule }}
+DOMAIN-SUFFIX,cartoonmad.com
+DOMAIN-SUFFIX,fun8.us
 
 # Reddit Addon
-DOMAIN-SUFFIX,redd.it,{{ rule }}
+DOMAIN-SUFFIX,redd.it
+
+# 垃圾游戏
+DOMAIN-SUFFIX,pokemon.com
+
+# 垃圾网盘
+DOMAIN-SUFFIX,uploaded.net
+DOMAIN-SUFFIX,4shared.com
+
+## 告别出版商绑架
+DOMAIN-KEYWORD,sci-hub
