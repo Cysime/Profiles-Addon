@@ -64,3 +64,6 @@ DOMAIN-SUFFIX,4shared.com
 
 ## 告别出版商绑架
 DOMAIN-KEYWORD,sci-hub
+
+# Picarto
+DOMAIN-SUFFIX,picarto.tv
