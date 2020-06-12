@@ -1,9 +1,11 @@
 # > bilibili（含国内版）
-DOMAIN-SUFFIX,biliapi.net
 DOMAIN,api.bilibili.com
 DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,hdslb.com
+IP-CIDR,203.107.1.0/24
