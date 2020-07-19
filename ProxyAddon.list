@@ -67,3 +67,6 @@ DOMAIN-KEYWORD,sci-hub
 
 # Picarto
 DOMAIN-SUFFIX,picarto.tv
+
+# 学术网站
+DOMAIN-SUFFIX,nih.gov
