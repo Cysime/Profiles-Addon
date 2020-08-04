@@ -70,3 +70,7 @@ DOMAIN-SUFFIX,picarto.tv
 
 # 学术网站
 DOMAIN-SUFFIX,nih.gov
+
+# Fandom
+DOMAIN-SUFFIX,fandom.com
+DOMAIN-SUFFIX,nocookie.net
