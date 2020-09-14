@@ -74,3 +74,10 @@ DOMAIN-SUFFIX,nih.gov
 # Fandom
 DOMAIN-SUFFIX,fandom.com
 DOMAIN-SUFFIX,nocookie.net
+
+# Notion Addon
+DOMAIN-SUFFIX,loggly.com
+DOMAIN-SUFFIX,segment.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,amplitude.com
