@@ -39,8 +39,9 @@ DOMAIN-SUFFIX,asahi.com
 DOMAIN-SUFFIX,st-hatena.com
 DOMAIN-SUFFIX,hatena.ne.jp
 
-# PAWOO
+# PIXIV
 DOMAIN-SUFFIX,pawoo.net
+DOMAIN-SUFFIX,pximg.net
 
 # NYAA
 DOMAIN-SUFFIX,nyaa.si
