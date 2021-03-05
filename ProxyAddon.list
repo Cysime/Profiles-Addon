@@ -83,3 +83,7 @@ DOMAIN-SUFFIX,segment.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,amplitude.com
+
+# 三星云和OneNote
+DOMAIN-SUFFIX,samsungcloud.com
+DOMAIN-SUFFIX,onenote.com
